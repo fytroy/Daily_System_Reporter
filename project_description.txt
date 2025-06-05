@@ -1,0 +1,3 @@
+Daily System Health Reporter
+
+The Daily System Health Reporter is a Python script that automates the collection of vital system health information, generates a comprehensive HTML report, and emails it to designated recipients. It monitors CPU, memory, disk usage (with alerts for low space), network activity, running processes, logged-in users, and system uptime. For Windows systems, it also checks the status of specified services and the firewall. This tool is ideal for IT administrators needing regular system status updates.
